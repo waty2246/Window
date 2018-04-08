@@ -1,0 +1,5 @@
+# when window are docking, if we changing (hide taskbar in window) screen, current docking will re-position
+  wrong (that mean it's position will start in 0 instead origin value we set when docking).
+-> to fix in next version, check when xProperty of stage change when it's window is docking, from this point we
+ will re-position as we set dock on it (may be done in DragDockService implement)
+#fix window resize to layout.

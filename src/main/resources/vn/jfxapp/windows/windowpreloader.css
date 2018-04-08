@@ -1,0 +1,8 @@
+.background{
+    -fx-fill: transparent;
+}
+.splash{
+    -fx-background-image:url("splash.png");
+    -fx-background-repeat:no-repeat;
+}
+

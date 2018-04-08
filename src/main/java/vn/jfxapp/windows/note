@@ -1,0 +1,2 @@
+#some resource giving from external, if not exist, default resource is used instead.
+#default resource is className.resourceExtension, located in class path.

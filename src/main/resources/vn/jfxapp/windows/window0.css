@@ -1,0 +1,10 @@
+.background{
+    -fx-fill: rgb(45,54,66);
+    -fx-arc-width:4;
+    -fx-arc-height:4;
+    -fx-border-color: rgb(44,49,61);
+}
+.shadow{
+    -fx-arc-width:10;
+    -fx-arc-height: 10;
+}
